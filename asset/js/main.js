@@ -19,9 +19,11 @@ const posts = [
         user: "Andrea Tommasei",
         user: "https://i.picsum.photos/id/873/200/300",
         likes: 12,
-        date: "28/12/2019"
+        date: "4 months ago"
     }
 ]
+
+
 
 
 
