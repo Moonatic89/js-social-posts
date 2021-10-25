@@ -4,18 +4,6 @@
 // Un secondo array conterrà solo gli id dei posts a cui abbiamo dato like.
 
 /*
-//this should be an array of posts
-POST TEMPLATE
-const post {
-id: id,
-bodypost: "lorem ipsum",
-image: url,
-user: username,
-user: userimg,
-likes: likes#,
-date: date
-
-}
 
 //A second array should contain only posts id and a like bool
 
@@ -27,11 +15,11 @@ const posts = [
     {
         id: 0,
         bodypost: loremIps,
-        image: url,
-        user: username,
-        user: userimg,
-        likes: likes,
-        date: date
+        image: "https://i.picsum.photos/id/873/200/300",
+        user: "Andrea Tommasei",
+        user: "https://i.picsum.photos/id/873/200/300",
+        likes: 12,
+        date: "28/12/2019"
     }
 ]
 
